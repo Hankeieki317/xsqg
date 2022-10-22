@@ -32,9 +32,25 @@ a:hover, .active{
 }
 
 a:active, a:focus,input:active, input:focus{outline:0;}
+/* 自由追加欄
+------------------------------------------------------------*/
+
+.info-font-wx{
+	position: relative;
+	bottom: 10px;
+}
+
+.info-font-tel{
+	position: relative;
+	bottom: 6px;
+}
+.ft-font{
+	font-size: 5px;
+}
 
 
-/* 头
+
+/* head
 ------------------------------------------------------------*/
 #header{
 	text-align: center;
